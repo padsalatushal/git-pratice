@@ -1,0 +1,9 @@
+git init
+git status
+git add .
+git log
+git stash
+git stash pop
+git stash clear
+git remote add origin https://github.com/padsalatushal/git-pratice
+git push origin master
